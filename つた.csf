@@ -1,0 +1,80 @@
+CSF,0,8,1
+1000,600,60,8
+5
+1,.\つた3.png,画像,,,,False,0,0,0,False,CR,100,False,70
+2,.\つた2.png,画像,,,,False,0,0,0,False,CR,100,False,70
+4,,ｽﾌﾟﾗｲﾄ,tsuta,,ExportTop,つた,16,8,8,0,False,0,0,0,0
+5,,ｽﾌﾟﾗｲﾄ,,,,メイン画面,1000,600,0,0,False,0,0,0,0
+3,.\つた1.png,画像,,,,False,0,0,0,False,CR,100,False,70
+4
+-3,,,0,,,-1,0,0,,,,True,1
+1,1,False,False,True,,"function onEnterFrame(){
+	this.gotoAndStop( _root.animeFrame % 4+2);
+}",-1,0,0,,,
+3,,,0,,,-1,0,0,,,,True,2
+1,1,False,False,True,0,0,0,0,True,10000,10000,0,100,0,0,0,0,XY,False,0,0
+0,False,100,100,100,100,0,0,0,0,False,0,0,0,100,2,2,45,5,1,False,False,True,2,False,4,4,2,False,255,255,0,100,10,10,1,False,False,True,2,False,0,0,0,100,255,255,255,100,2,2,45,5,1,True,False,True,False,2,False,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+2,1,False,False,True,0,0,0,0,True,10000,10000,0,100,0,0,0,0,XY,False,0,0
+0,False,100,100,100,100,0,0,0,0,False,0,0,0,100,2,2,45,5,1,False,False,True,2,False,4,4,2,False,255,255,0,100,10,10,1,False,False,True,2,False,0,0,0,100,255,255,255,100,2,2,45,5,1,True,False,True,False,2,False,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+2,,,0,,,-1,0,0,,,,True,2
+3,1,False,False,True,0,0,0,0,True,10000,10000,0,100,0,0,0,0,XY,False,0,0
+0,False,100,100,100,100,0,0,0,0,False,0,0,0,100,2,2,45,5,1,False,False,True,2,False,4,4,2,False,255,255,0,100,10,10,1,False,False,True,2,False,0,0,0,100,255,255,255,100,2,2,45,5,1,True,False,True,False,2,False,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+5,1,False,False,True,0,0,0,0,True,10000,10000,0,100,0,0,0,0,XY,False,0,0
+0,False,100,100,100,100,0,0,0,0,False,0,0,0,100,2,2,45,5,1,False,False,True,2,False,4,4,2,False,255,255,0,100,10,10,1,False,False,True,2,False,0,0,0,100,255,255,255,100,2,2,45,5,1,True,False,True,False,2,False,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+1,,,0,,,-1,0,0,,,,True,1
+4,1,False,False,True,0,0,0,0,True,10000,10000,0,100,0,0,0,0,XY,False,0,0
+0,False,100,100,100,100,0,0,0,0,False,0,0,0,100,2,2,45,5,1,False,False,True,2,False,4,4,2,False,255,255,0,100,10,10,1,False,False,True,2,False,0,0,0,100,255,255,255,100,2,2,45,5,1,True,False,True,False,2,False,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+1
+4,,,0,,,-1,0,0,,,,True,1
+1,1,True,False,True,500,300,0,0,True,10000,10000,0,100,0,0,0,0,XY,False,0,0
+0,False,100,100,100,100,0,0,0,0,False,0,0,0,100,2,2,45,5,1,False,False,True,2,False,4,4,2,False,255,255,0,100,10,10,1,False,False,True,2,False,0,0,0,100,255,255,255,100,2,2,45,5,1,True,False,True,False,2,False,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,False,in,False,0,Left,False,20,
+2
+5,,,0,,"onClipEvent(load){
+	_root.animeFrame = 0;
+	this.count = 0;
+	
+	this.tsutax = 400;
+	this.tsutay = 400;
+	entityID = 0;
+	this.activeTsuta = this.attachMovie(""tsuta"",entityID,this.getNextHighestDepth(),
+	{_x:this.tsutax,_y:this.tsutay});
+	
+}
+
+onClipEvent(enterFrame){
+
+	//アニメーションカウントを進める
+	if(this.count++ > 5){
+		this.count = 0;
+		_root.animeFrame++;
+	}
+	
+	//ツタを生成する
+	
+	this.tsutay--;
+	if(this.tsutay % 8 == 0){
+		//新しいツタ
+		sindo = this.getNextHighestDepth();
+		this.activeTsuta = this.attachMovie(""tsuta"",entityID,sindo,
+		{_x:this.tsutax,_y:this.tsutay});
+		
+	} else {
+		this.activeTsuta._y = this.tsutay;
+	}
+	
+}
+
+onClipEvent(mouseDown){
+	//今あるツタを消去
+	this.activeTsuta.removeMovieClip();
+	this.tsutax = _xmouse ;
+	this.tsutay = _ymouse ;
+	sindo = this.getNextHighestDepth();
+	this.activeTsuta = this.attachMovie(""tsuta"",entityID,sindo,
+	{_x:this.tsutax,_y:this.tsutay});
+
+}",-1,0,0,,,,True,1
+1,1,False,False,True,0,0,0,0,True,10000,10000,0,100,0,0,0,0,XY,False,0,0
+0,False,100,100,100,100,0,0,0,0,False,0,0,0,100,2,2,45,5,1,False,False,True,2,False,4,4,2,False,255,255,0,100,10,10,1,False,False,True,2,False,0,0,0,100,255,255,255,100,2,2,45,5,1,True,False,True,False,2,False,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,False,in,False,0,Left,False,20,
+-1,,,0,,,-1,0,0,,,,True,1
+1,1,True,False,True,255,255,255
