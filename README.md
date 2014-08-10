@@ -1,4 +1,4 @@
 vine
 ====
 
-![vine](/vine.swf "vine")
+![vine](/vine.png "vine")
